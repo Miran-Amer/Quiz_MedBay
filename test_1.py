@@ -3,6 +3,7 @@
 # D:\Stuff\melon_honey
 
 # co author test
+# --> pip install pymunk
 
 from copyreg import dispatch_table
 from tkinter.tix import Tree
